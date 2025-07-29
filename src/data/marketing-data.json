@@ -1,0 +1,112 @@
+{
+  "marketingData": {
+    "January": {
+      "uniqueVisitors": 148,
+      "trialSignups": 1,
+      "conversionRate": 0.68,
+      "paidSubscriptions": 1,
+      "newMRR": 14,
+      "totalMRR": 116
+    },
+    "February": {
+      "uniqueVisitors": 298,
+      "trialSignups": 4,
+      "conversionRate": 1.34,
+      "paidSubscriptions": 0,
+      "newMRR": 0,
+      "totalMRR": 116
+    },
+    "March": {
+      "uniqueVisitors": 193,
+      "trialSignups": 3,
+      "conversionRate": 1.55,
+      "paidSubscriptions": 0,
+      "newMRR": 0,
+      "totalMRR": 116
+    },
+    "April": {
+      "uniqueVisitors": 335,
+      "trialSignups": 17,
+      "conversionRate": 5.07,
+      "paidSubscriptions": 0,
+      "newMRR": 0,
+      "totalMRR": 116
+    },
+    "May": {
+      "uniqueVisitors": 297,
+      "trialSignups": 19,
+      "conversionRate": 6.40,
+      "paidSubscriptions": 0,
+      "newMRR": 0,
+      "totalMRR": 116
+    },
+    "June": {
+      "uniqueVisitors": 308,
+      "trialSignups": 18,
+      "conversionRate": 6.56,
+      "paidSubscriptions": 0,
+      "newMRR": 0,
+      "totalMRR": 191
+    },
+    "July": {
+      "uniqueVisitors": 385,
+      "trialSignups": 26,
+      "conversionRate": 6.72,
+      "paidSubscriptions": 2.1,
+      "newMRR": 39,
+      "totalMRR": 230
+    },
+    "August": {
+      "uniqueVisitors": 481,
+      "trialSignups": 33,
+      "conversionRate": 6.89,
+      "paidSubscriptions": 4.0,
+      "newMRR": 76,
+      "totalMRR": 306
+    },
+    "September": {
+      "uniqueVisitors": 602,
+      "trialSignups": 42,
+      "conversionRate": 7.06,
+      "paidSubscriptions": 6.8,
+      "newMRR": 129,
+      "totalMRR": 435
+    },
+    "October": {
+      "uniqueVisitors": 752,
+      "trialSignups": 54,
+      "conversionRate": 7.24,
+      "paidSubscriptions": 10.3,
+      "newMRR": 196,
+      "totalMRR": 632
+    },
+    "November": {
+      "uniqueVisitors": 940,
+      "trialSignups": 70,
+      "conversionRate": 7.42,
+      "paidSubscriptions": 13.9,
+      "newMRR": 265,
+      "totalMRR": 897
+    },
+    "December": {
+      "uniqueVisitors": 1175,
+      "trialSignups": 89,
+      "conversionRate": 7.60,
+      "paidSubscriptions": 18.8,
+      "newMRR": 356,
+      "totalMRR": 1253
+    }
+  },
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "chartColors": {
+    "visitors": "#3B82F6",
+    "trialSignups": "#10B981",
+    "newMRR": "#F59E0B",
+    "totalMRR": "#EF4444"
+  },
+  "liveStatsRanges": {
+    "activeUsers5s": { "min": 10, "max": 60 },
+    "activeUsers24h": { "min": 200, "max": 700 },
+    "cardsCreated24h": { "min": 50, "max": 150 }
+  }
+} 
